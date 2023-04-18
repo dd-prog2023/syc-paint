@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-    <title>group</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="group" stroke-width="0.75">
-            <g id="group-icon" transform="translate(2.000000, 2.000000)">
-                <rect id="Rectangle-2" stroke="#4C97FF" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="3" height="3"></rect>
-                <rect id="Rectangle-2-Copy-2" stroke="#4C97FF" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="13" y="0" width="3" height="3"></rect>
-                <rect id="Rectangle-2-Copy" stroke="#4C97FF" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="0" y="13" width="3" height="3"></rect>
-                <rect id="Rectangle-2-Copy-3" stroke="#4C97FF" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="13" y="13" width="3" height="3"></rect>
-                <path d="M1.5,3 L1.5,13" id="Line" stroke="#4C97FF" stroke-linecap="square"></path>
-                <path d="M14.5,3 L14.5,13" id="Line-Copy" stroke="#4C97FF" stroke-linecap="square"></path>
-                <path d="M13,1.5 L3,1.5" id="Line-Copy-2" stroke="#4C97FF" stroke-linecap="square"></path>
-                <path d="M13,14.5 L3,14.5" id="Line-Copy-3" stroke="#4C97FF" stroke-linecap="square"></path>
-                <g id="Group" transform="translate(8.000000, 8.000000) rotate(180.000000) translate(-8.000000, -8.000000) translate(4.000000, 4.000000)" stroke="#575E75">
-                    <rect id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(5.500000, 5.500000) rotate(180.000000) translate(-5.500000, -5.500000) " x="3" y="3" width="5" height="5" rx="0.5"></rect>
-                    <rect id="Rectangle-3" fill="#575E75" transform="translate(2.500000, 2.500000) rotate(180.000000) translate(-2.500000, -2.500000) " x="0" y="0" width="5" height="5" rx="0.5"></rect>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="24px" height="24px" viewBox="212.273 424.639 24 24" enable-background="new 212.273 424.639 24 24"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#E0E0E0" width="2229.455" height="1311.244"/>
+<rect x="212.273" y="424.639" display="none" fill="#C9C9C9" width="24" height="24"/>
+<path fill="#F0423B" d="M230.939,429.972h1.667c0.442,0,0.866,0.176,1.178,0.488c0.313,0.313,0.488,0.737,0.488,1.179v13.333
+	c0,0.442-0.175,0.866-0.488,1.178c-0.313,0.313-0.736,0.488-1.178,0.488h-13.333c-0.442,0-0.866-0.176-1.179-0.488
+	c-0.313-0.313-0.488-0.736-0.488-1.178v-1.667h-1.667c-0.442,0-0.866-0.175-1.178-0.488c-0.313-0.313-0.488-0.736-0.488-1.178
+	v-13.333c0-0.92,0.746-1.667,1.667-1.667h13.333c0.442,0,0.866,0.175,1.179,0.488c0.313,0.313,0.488,0.737,0.488,1.179V429.972z
+	 M229.273,429.972v-1.667h-13.333v13.333h1.667v-10c0-0.442,0.175-0.866,0.488-1.179c0.313-0.313,0.737-0.488,1.179-0.488H229.273z
+	 M219.273,431.639v13.333h13.333v-13.333H219.273z M219.273,431.639"/>
 </svg>
